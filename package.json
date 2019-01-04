@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-mplayer",
-  "version": "1.0.0",
+  "version": "1.0.0-beta",
   "description": "A simple plugin for inserting cPlayer by using tags in Hexo.",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/wshunli/hexo-tag-mplayer/issues"
   },
-  "homepage": "https://github.com/wshunli/hexo-tag-mplayer#readme"
+  "homepage": "https://github.com/wshunli/hexo-tag-mplayer#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
 }
