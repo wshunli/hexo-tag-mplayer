@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-mplayer",
-  "version": "1.0.0-beta",
+  "version": "1.0.0",
   "description": "A simple plugin for inserting cPlayer by using tags in Hexo.",
   "main": "index.js",
   "scripts": {
