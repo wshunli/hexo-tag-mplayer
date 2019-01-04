@@ -1,0 +1,25 @@
+{
+  "name": "hexo-tag-mplayer",
+  "version": "1.0.0",
+  "description": "A simple plugin for inserting cPlayer by using tags in Hexo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wshunli/hexo-tag-mplayer.git"
+  },
+  "keywords": [
+    "hexo",
+    "tag",
+    "mplayer",
+    "cplayer"
+  ],
+  "author": "wshunli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wshunli/hexo-tag-mplayer/issues"
+  },
+  "homepage": "https://github.com/wshunli/hexo-tag-mplayer#readme"
+}
