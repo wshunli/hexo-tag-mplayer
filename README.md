@@ -7,6 +7,7 @@
 [![David](https://img.shields.io/david/dev/wshunli/hexo-tag-mplayer.svg)](https://github.com/wshunli/hexo-tag-mplayer)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwshunli%2Fhexo-tag-mplayer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwshunli%2Fhexo-tag-mplayer?ref=badge_shield)
 
+![Screenshoot](screenshoot/demo.png)
 
 Insert [cPlayer](https://github.com/MoePlayer/cPlayer) in Hexo by using tags.
 
