@@ -43,7 +43,7 @@ $ npm install hexo-tag-mplayer --save
 {% endmplayer %}
 ```
 
-For more details, visit [hexo-tag-mplayer Demo](http://www.wshunli.com/hexo-tag-mplayer.html) here.
+For more details, visit [hexo-tag-mplayer Demo](http://www.wshunli.com/posts/hexo-tag-mplayer.html) here.
 
 # Option
 
